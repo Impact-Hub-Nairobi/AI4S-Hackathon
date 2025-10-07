@@ -29,7 +29,17 @@ Agricultural data is often **context-specific, sensitive, and unevenly distribut
 Responsible AI ensures that digital agriculture solutions:
 - Reflect **local realities** (data, languages, gender inclusion, digital access).  
 - Provide **explainable and fair outcomes** to users.  
-- Strengthen **trust and adoption** among smallholder farmers.  
+- Strengthen **trust and adoption** among smallholder farmers.
+
+### 🌍 Why Responsible AI Matters for the AI4S Hackathon
+
+Responsible AI is at the heart of the **AI4S Hackathon’s vision** — to inspire the creation of ethical, inclusive, and sustainable AI solutions that strengthen Africa’s agricultural systems. Participants are not only encouraged to innovate but to do so with integrity, ensuring that their solutions uphold fairness, transparency, and equity for all agricultural stakeholders. By integrating responsible AI principles, teams can build solutions that are **trusted by farmers, adoptable by cooperatives, and scalable by policymakers and investors**.  
+
+The principles shared in this session guide participants to align their prototypes with real-world ethics and impact — helping bridge the gap between technological capability and social responsibility.
+
+🎥 **Workshop Recording:** [Watch the Responsible AI for Agriculture Session](#)  
+*(Link to be updated once the recording is uploaded)*
+
 
 ---
 
