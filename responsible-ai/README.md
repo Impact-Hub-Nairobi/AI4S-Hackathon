@@ -139,11 +139,26 @@ All teams must demonstrate **responsibility in AI design and implementation** by
 
 ---
 
-**Maintained by:**  
-🧩 *AI4S Hackathon Team – Impact Hub Nairobi*  
-💻 *Consultant: Daisy Jelagat*  
-📅 *Session Date: October 8, 2025 (Virtual)*  
-📍 *Category: Technical Workshop – Responsible AI for Agriculture*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
