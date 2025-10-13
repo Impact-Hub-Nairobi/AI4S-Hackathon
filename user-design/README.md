@@ -150,14 +150,3 @@ Hackathon judges will assess solutions based on:
 We welcome additional resources, frameworks, or case studies related to human-centered and inclusive AgriTech design.  
 Please submit a **pull request** or create an **issue** to suggest updates.
 
----
-
-## Acknowledgments
-This session was developed as part of the **AI4S Hackathon – Impact Hub Nairobi**, under the **AI for Startups (AI4S) Program** by **Digital Africa**.  
-Special thanks to our facilitators, mentors, and participating innovators who continue to build inclusive, data-driven solutions for Africa’s agricultural transformation.
-
----
-
-### 👩🏽‍💻 Next Session:
-After learning about inclusive design and accessibility, the next workshop in this series will focus on **Responsible AI for Agriculture** — exploring fairness, transparency, and ethical AI practices.
-
