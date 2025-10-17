@@ -37,9 +37,7 @@ Responsible AI is at the heart of the **AI4S Hackathon’s vision** — to inspi
 
 The principles shared in this session guide participants to align their prototypes with real-world ethics and impact — helping bridge the gap between technological capability and social responsibility.
 
-🎥 **Workshop Recording:** [Watch the Responsible AI for Agriculture Session](#)  
-*(Link to be updated once the recording is uploaded)*
-
+🎥 **Workshop Recording:** [Watch the Responsible AI for Agriculture Session](#https://zoom.us/rec/play/nAzFCcTc9NdNAnUSWpLeshEJq14RddaenHa0eqt3LXq1o7Jj2kV10jfNFf3aqrgb9VnzujPQrJ4xoi5g.QO43dRkM5nw570sQ?eagerLoadZvaPages=&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FUk1XJU6bA9ED1TfPqt2jPHE39G_0DRH386eddbU24LQXZT9vjis0Q3q0vioAobzL.4ij2c3Jvdxf-kC2L)  
 
 ---
 
