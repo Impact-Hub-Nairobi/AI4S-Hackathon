@@ -145,8 +145,3 @@ Hackathon judges will assess solutions based on:
 | **Presentation & Clarity** | Ability to communicate user insights and design rationale. |
 
 ---
-
-## Contributing
-We welcome additional resources, frameworks, or case studies related to human-centered and inclusive AgriTech design.  
-Please submit a **pull request** or create an **issue** to suggest updates.
-
