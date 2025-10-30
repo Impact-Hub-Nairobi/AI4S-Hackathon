@@ -1,5 +1,4 @@
 # 🌍 Workshop 4: Traceability & Compliance in Agricultural Supply Chains  
-### AI4S Hackathon – Impact Hub Nairobi x Digital Africa  
 
 ---
 

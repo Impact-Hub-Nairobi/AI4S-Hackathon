@@ -1,4 +1,4 @@
-# 🌾 Responsible AI for Agriculture – AI4S Hackathon
+# 🌾 Workshop 1: Responsible AI for Agriculture – AI4S Hackathon
 
 ## 🧭 Overview
 This section of the AI4S Hackathon repository focuses on **Responsible AI**, ensuring that the AI systems built for agricultural applications are **fair, transparent, inclusive, and accountable**.  

@@ -1,5 +1,4 @@
-# 🌍 Workshop 3: From Pixels to Use Cases and Policy  
-### AI4S Hackathon – Data & Remote Sensing Techniques for Agricultural Decision-Making and Climate Risk Modelling  
+# 🌍 Workshop 3: Data & Remote Sensing Techniques for Agricultural Decision-Making and Climate Risk Modelling  
 
 ---
 
@@ -11,7 +10,7 @@ By the end, participants will understand how Earth observation (EO) data can dri
 
 ---
 
-## 📚 Workshop Flow  
+## 📚 From Pixels to Use Cases and Policy
 
 ### Step-by-Step Pipeline  
 1. **Define Area of Interest (AOI) & import farm polygons**

@@ -1,4 +1,4 @@
-# Designing for Users: Accessibility & Inclusion in AgriTech Solutions 🌍
+# Workshop 2: Designing for Users: Accessibility & Inclusion in AgriTech Solutions 🌍
 
 ## Overview
 This repository complements the **AI4S Hackathon Workshop: Designing for Users — Accessibility & Inclusion in AgriTech Solutions.**  
