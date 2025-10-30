@@ -1,6 +1,4 @@
 # 🧭 AI4S Hackathon — Final Submission Guide  
-**Repository:** `/Final_Submission_Guide`  
-**Version:** v1.0 | Updated: October 2025  
 
 This README provides a **step-by-step guide** on how participants should prepare and submit their **final hackathon deliverables** for the **AI4S Hackathon**.  
 It explains how to create your team’s GitHub Organization, organize your repositories, upload your presentation slides, and ensure your submission is complete and ready for judging.
